@@ -1,0 +1,7 @@
+C:\Users\DAI\source\repos\WinCaculator\WinCaculator\obj\Debug\net6.0-windows\WinCaculator.csproj.AssemblyReference.cache
+C:\Users\DAI\source\repos\WinCaculator\WinCaculator\obj\Debug\net6.0-windows\WinCaculator.Form1.resources
+C:\Users\DAI\source\repos\WinCaculator\WinCaculator\obj\Debug\net6.0-windows\WinCaculator.csproj.GenerateResource.cache
+C:\Users\DAI\source\repos\WinCaculator\WinCaculator\obj\Debug\net6.0-windows\WinCaculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAI\source\repos\WinCaculator\WinCaculator\obj\Debug\net6.0-windows\WinCaculator.AssemblyInfoInputs.cache
+C:\Users\DAI\source\repos\WinCaculator\WinCaculator\obj\Debug\net6.0-windows\WinCaculator.AssemblyInfo.cs
+C:\Users\DAI\source\repos\WinCaculator\WinCaculator\obj\Debug\net6.0-windows\WinCaculator.csproj.CoreCompileInputs.cache

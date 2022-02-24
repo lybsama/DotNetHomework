@@ -1,0 +1,11 @@
+C:\Users\DAI\source\repos\WinCaculator\WinCalculator\bin\Debug\WinCalculator.exe.config
+C:\Users\DAI\source\repos\WinCaculator\WinCalculator\bin\Debug\WinCalculator.exe
+C:\Users\DAI\source\repos\WinCaculator\WinCalculator\bin\Debug\WinCalculator.pdb
+C:\Users\DAI\source\repos\WinCaculator\WinCalculator\obj\Debug\WinCalculator.csproj.AssemblyReference.cache
+C:\Users\DAI\source\repos\WinCaculator\WinCalculator\obj\Debug\WinCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\DAI\source\repos\WinCaculator\WinCalculator\obj\Debug\WinCalculator.Form1.resources
+C:\Users\DAI\source\repos\WinCaculator\WinCalculator\obj\Debug\WinCalculator.Properties.Resources.resources
+C:\Users\DAI\source\repos\WinCaculator\WinCalculator\obj\Debug\WinCalculator.csproj.GenerateResource.cache
+C:\Users\DAI\source\repos\WinCaculator\WinCalculator\obj\Debug\WinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DAI\source\repos\WinCaculator\WinCalculator\obj\Debug\WinCalculator.exe
+C:\Users\DAI\source\repos\WinCaculator\WinCalculator\obj\Debug\WinCalculator.pdb

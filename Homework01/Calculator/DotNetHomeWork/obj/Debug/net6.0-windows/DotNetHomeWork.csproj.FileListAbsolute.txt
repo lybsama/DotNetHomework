@@ -1,0 +1,17 @@
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\bin\Debug\net6.0-windows\DotNetHomeWork.exe
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\bin\Debug\net6.0-windows\DotNetHomeWork.deps.json
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\bin\Debug\net6.0-windows\DotNetHomeWork.runtimeconfig.json
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\bin\Debug\net6.0-windows\DotNetHomeWork.dll
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\bin\Debug\net6.0-windows\DotNetHomeWork.pdb
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\obj\Debug\net6.0-windows\DotNetHomeWork.csproj.AssemblyReference.cache
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\obj\Debug\net6.0-windows\DotNetHomeWork.Form1.resources
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\obj\Debug\net6.0-windows\DotNetHomeWork.csproj.GenerateResource.cache
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\obj\Debug\net6.0-windows\DotNetHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\obj\Debug\net6.0-windows\DotNetHomeWork.AssemblyInfoInputs.cache
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\obj\Debug\net6.0-windows\DotNetHomeWork.AssemblyInfo.cs
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\obj\Debug\net6.0-windows\DotNetHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\obj\Debug\net6.0-windows\DotNetHomeWork.dll
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\obj\Debug\net6.0-windows\refint\DotNetHomeWork.dll
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\obj\Debug\net6.0-windows\DotNetHomeWork.pdb
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\obj\Debug\net6.0-windows\DotNetHomeWork.genruntimeconfig.cache
+C:\Users\DAI\source\repos\DotNetHomeWork\DotNetHomeWork\obj\Debug\net6.0-windows\ref\DotNetHomeWork.dll
