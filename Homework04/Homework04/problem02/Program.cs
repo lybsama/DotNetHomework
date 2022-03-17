@@ -1,9 +1,9 @@
 ﻿using System;
 namespace problem02
     {
-        public delegate void TickHandler(object sender, TickEventArgs e);
+        public delegate void TickHandler(object sender, TickEvent e);
 
-        public class TickEventArgs
+        public class TickEvent
         {
             public int timeLeft { get; set; }
         }
@@ -14,49 +14,49 @@ namespace problem02
             public void Tick(int tleft)
             {
                 Console.WriteLine("开始倒计时：");
-                TickEventArgs args = new TickEventArgs() { timeLeft = tleft };
+                TickEvent args = new TickEventArgs() { timeLeft = tleft };
                 OnTick(this, args);
 
 
             }
         }
 
-        public class Form
+        public class Tick
         {
             public Clock clock1 = new Clock();
-            public Form()
+            public Tick()
             {
                 clock1.OnTick += new TickHandler(clk_OnTick);
                 clock1.OnTick += clk_OnTick2;
             }
 
-            void clk_OnTick(object sender, TickEventArgs args)
+            void clk_OnTick(object sender, TickEvent args)
             {
                 while (args.timeLeft > 0)
                 {
-                    Console.WriteLine("ticking...剩余时间:{0}", args.timeLeft);
+                    Console.WriteLine("剩余时间:{0}", args.timeLeft);
                     System.Threading.Thread.Sleep(1000);
                     args.timeLeft -= 1;
                 }
             }
 
-            void clk_OnTick2(object sender, TickEventArgs args)
+            void clk_OnTick2(object sender, TickEvent args)
             {
                 while (args.timeLeft == 0)
                 {
-                    Console.WriteLine("闹钟铃声响起");
+                    Console.WriteLine("响铃");
                     args.timeLeft = -1;
                 }
             }
         }
 
 
-        class Program
+        class Program02
         {
             static void Main(string[] args)
             {
-                Form form1 = new Form();
-                form1.clock1.Tick(10);
+                Tick tick1 = new Tick();
+                tick1.clock1.Tick(10);
                 Console.ReadKey();
             }
         }

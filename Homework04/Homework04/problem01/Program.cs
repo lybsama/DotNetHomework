@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace problem01
 {
     public class Node<T>
@@ -60,10 +55,9 @@ namespace problem01
     {
         static void Main(string[] args)
         {
-            //整型list
             GenericList<int> intList = new GenericList<int>();
 
-            for (int x = 0; x < 10; x++)
+            for (int x = 0; x < 9; x++)
             {
                 intList.Add(x);
             }
@@ -72,7 +66,6 @@ namespace problem01
             int sum = 0;
             intList.ForEach((x) =>
             {
-                //Console.WriteLine(x);
                 max = Math.Max(max, x);
                 min = Math.Min(min, x);
                 sum += x;
