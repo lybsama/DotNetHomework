@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Windows.Forms;
 using System.IO;
 using MySql.Data.MySqlClient;
-namespace homework11
+namespace homework12
 {
     public partial class DeleteItem : UserControl
     {
+        public List<Order> allOrders = new List<Order>();
         string conString = "datasource=localhost;username=root;" +
                 "password=111;database=order_sql;charset=utf8";
         public DeleteItem()

@@ -10,10 +10,11 @@ using System.Windows.Forms;
 using System.IO;
 using MySql.Data.MySqlClient;
 
-namespace homework11
+namespace homework12
 {
     public partial class ShowUC : UserControl
     {
+        public List<Order> allOrders;
         public string conString = "datasource=localhost;username=root;" +
                 "password=111;database=order_sql;charset=utf8";
         public ShowUC()

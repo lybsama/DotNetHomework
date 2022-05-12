@@ -11,10 +11,10 @@ using System.IO;
 using Microsoft.Data.SqlClient;
 using MySql.Data.MySqlClient;
 
-namespace homework11
-{
+namespace homework12
     public partial class AddOrder : UserControl
     {
+        public List<Order> allOrders = new List<Order>();
         Order od1 = new Order();
         int detailSum = 0;
         bool ifFinished = false;

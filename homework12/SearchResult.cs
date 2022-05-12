@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
-
-namespace homework11
+namespace homework12
 {
     public partial class SearchResult : UserControl
     {
+        public List<Order> allOrders;
         public SearchResult()
         {
             InitializeComponent();

@@ -8,13 +8,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace homework11
+namespace homework12
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
+            HomeBtStrip.Visible = true;
             AddOrderStrip.Visible = false;
             DeleteOrderStrip.Visible = false;
             SearchStrip.Visible = false;
@@ -44,6 +45,15 @@ namespace homework11
             addUserControl(searchResult); 
         }
 
+        private void HomeButton_Click(object sender, EventArgs e)
+        {
+            HomeBtStrip.Visible = true;
+            AddOrderStrip.Visible = false;
+            DeleteOrderStrip.Visible = false;
+            SearchStrip.Visible = false;
+            ShowUC uc1  = new ShowUC();
+            addUserControl(uc1);
+        }
 
         private void AddOrderButton_Click(object sender, EventArgs e)
         {
